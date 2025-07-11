@@ -1,6 +1,6 @@
 welcome to git and GitHub 
   
-
+hi mohan
 
 mkdir my_git_project
 cd my_git_project
