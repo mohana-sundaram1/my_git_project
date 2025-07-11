@@ -1,6 +1,6 @@
 welcome to git and GitHub 
   
-hi mohan
+hi mohana
 
 mkdir my_git_project
 cd my_git_project
@@ -16,3 +16,4 @@ Commit	                        git commit -m "message"
 View changes (unstaged) 	git diff
 View commit history	        git log
 
+this is line
