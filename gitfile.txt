@@ -1,6 +1,5 @@
 welcome to git and GitHub 
   
-hi mohana
 
 mkdir my_git_project
 cd my_git_project
@@ -16,4 +15,4 @@ Commit	                        git commit -m "message"
 View changes (unstaged) 	git diff
 View commit history	        git log
 
-this is line
+for delete git rm filename.txt
