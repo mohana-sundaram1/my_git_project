@@ -1,0 +1,18 @@
+welcome to git and GitHub 
+  
+
+
+mkdir my_git_project
+cd my_git_project
+git init
+
+
+
+
+Initialize repo         	git init
+Check status	                git status
+Add file	                git add filename.txt
+Commit	                        git commit -m "message"
+View changes (unstaged) 	git diff
+View commit history	        git log
+
